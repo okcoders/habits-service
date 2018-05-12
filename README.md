@@ -1,7 +1,7 @@
 # habits service
 
-- (restify)[http://restify.com/docs/home/]
-- (sequelize)[http://docs.sequelizejs.com/manual/installation/getting-started.html]
+- [restify](http://restify.com/docs/home/)
+- [sequelize](http://docs.sequelizejs.com/manual/installation/getting-started.html)
 
 ```
 npm install --save sequelize
